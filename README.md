@@ -1,1 +1,1 @@
-# JS-time
+# JS time for your website
